@@ -1,2 +1,2 @@
-# Engenharia de Software 2026/2
+# engenhariasoft
 Repositório da disciplina de engenharia de software
