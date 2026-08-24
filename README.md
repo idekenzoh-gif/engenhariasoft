@@ -1,2 +1,2 @@
 # engenhariasoft
-Repositório da disciplina de engenharia de software
+Repositório de engenharia de software
